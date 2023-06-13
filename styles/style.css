@@ -337,6 +337,7 @@ section{
    font-size: 2.5rem;
    color: var(--black);
 }
+/* food preview section */
 
 .food-preview-container .food-preview .stars{
    margin-top: .5rem;

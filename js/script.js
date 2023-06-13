@@ -77,6 +77,7 @@ var swiper = new Swiper(".menu-slider", {
       clickable: true,
    },
 });
+// adds swipe effect
 
 var swiper = new Swiper(".blogs-slider", {
    grabCursor:true,
